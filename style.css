@@ -1,0 +1,22 @@
+.yellowClass {
+    color: yellow;
+
+}
+
+.orangeClass {
+    color: orange;
+}
+
+.redClass {
+    outline: red;
+    background-color: red;
+}
+
+.voiletClass {
+    outline: violet;
+    background-color:violet;
+}
+
+.pastcitySearch {
+    background-color: orangered;
+}
