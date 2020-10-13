@@ -1,6 +1,6 @@
 # **Description**
 
-This assignment serves as a Day Planner that allows the user to save events for each hour of the day. Easily accessable on the web, this assignments incorporates elements from CSS, HTML, and JavaScript. 
+This assignment serves as a weather dashboard that allows user to search for city. They are then provided with the current forcast -including a UV Index - as well as a 5 day forcast. This assignments incorporates elements from CSS, HTML, and JavaScript. 
 
 Also uses BootStrap and jQuery.
 
@@ -42,4 +42,4 @@ Though this website was created by me, it was only done so using knowledge provi
 
 # **License**
 
-N/A
+MIT
